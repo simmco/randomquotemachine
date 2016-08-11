@@ -1,0 +1,50 @@
+/* colors:
+#E2DFDC
+#EED6A9
+#7DB18D
+#377898
+#161818
+#D85954
+*/
+
+body {
+  background-color: #EED6A9;
+  font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron {
+
+  margin: 100px 100px 30px 100px;
+
+}
+
+#quote {
+  color: #EED6A9;
+
+}
+
+p  {
+  text-align: right;
+  color: #EED6A9;
+}
+
+.buttons {
+  margin: -10px 0px 0px 0px;
+  float: right;
+  border:0px solid transparent;
+}
+
+
+.btn {
+  background-color:#EED6A9;
+  color: white;
+}
+
+.btn-default:focus {
+  color:white;
+  outline: none;
+}
+
+btn-default:active {
+  color: white;
+}

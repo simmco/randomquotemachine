@@ -1,3 +1,5 @@
+
+//githup-pages
 function changeColor() {
 
       var colors = ["#E2DFDC", "#EED6A9", "#7DB18D", "#377898", "#161818", "#D85954", "#F39874", "#2325B4", "#2E4ED", "#97CE7A"];
